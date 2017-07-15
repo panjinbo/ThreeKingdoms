@@ -1,14 +1,14 @@
 # Three Kingdoms
----
+
 This is a mobile tower defence game, using Unity Platform.
 
-##Background
+## Background
 
  This mobile game is based on Chinese traditional story Three Kingdoms. The world under heaven, after a long period of division, tends to unite; after a long period of union, tends to divide. This has been so since antiquity
  
-##Game
+## Game
 1.The start UI
-![](https://github.com/panjinbo/Facepalm/tree/master/img/1.png)
+![](ThreeKingdoms/img/1.PNG)
 
 2.There will be a short animation about the backgroud story for each chapter.
 ![](https://github.com/panjinbo/Facepalm/tree/master/img/2.png)
