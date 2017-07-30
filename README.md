@@ -4,7 +4,7 @@ This is a mobile tower defence game, using Unity Platform.
 
 ## Background
 
-his mobile game is based on Chinese traditional story Three Kingdoms.
+This mobile game is based on Chinese traditional story Three Kingdoms.
  
 The world under heaven, after a long period of division, tends to unite; after a long period of union, tends to divide. This has been so since antiquity
  
